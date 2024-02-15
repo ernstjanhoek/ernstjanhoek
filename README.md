@@ -6,4 +6,4 @@ Op mijn github staan:
 
 - uitwerkingen van codeeropdrachten in Java, Bash en Rust
 - bash scripts
-- 
+  
